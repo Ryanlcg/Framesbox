@@ -6,7 +6,7 @@
 	margin: 0;
 
 	/* Remove o espaçamento interno de todos os lados do elemento. */
-	padding: 0;
+	padding: 1;
 
 	/* Inclui o preenchimento e a borda na largura e altura. */
 	box-sizing: border-box;
