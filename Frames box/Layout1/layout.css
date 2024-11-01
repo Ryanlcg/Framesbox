@@ -3,7 +3,7 @@
 /* Propriedades que se aplicam a todos os elementos da página. */
 * {
 	/* Remove a margem externa de todos os lados do elemento. */
-	margin: 10;
+	margin: 0;
 
 	/* Remove o espaçamento interno de todos os lados do elemento. */
 	padding: 0;
