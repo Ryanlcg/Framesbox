@@ -85,7 +85,7 @@ header #logo {
 	border: none;
 
 	/* Remove a cor de fundo. */
-	background: none;
+	background: black;
 
 	/* Tamanho da fonte. */
 	font-size: 30px;
